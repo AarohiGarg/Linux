@@ -11,3 +11,8 @@
  5) mkdir - For creating folders and files. EX - mkdir foldername
  6) cat - To merge or concatinate your files. EX - cat test_1.txt test_2.txt test_3.txt.
  7) cat r* - concatenate all the files whose names start with a r and are followed by zero or more other characters.
+ 8) mv - Used to move files from one directory to another. EX - mv commands.txt dir1"here dir1 is the directory where you want to move the file"
+ 9) cp - This command is used to copy the file. EX - cp commands.txt backup_commands.txt.
+ 10) rm - Used to remove the folder EX - rm foldername.
+ 11) rmdir - Used to remove the directory EX - rmdir directory name.
+
