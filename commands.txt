@@ -1,0 +1,13 @@
+ 1) pwd - shows you the directory. EX:-/home/YOUR_USERNAME 
+ 2) cd - helps jump into different folders and directories. EX:- cd foldername
+ 3) cd .. - to go back to the previous directory.
+ 4) TRY THEM FOR BETTER UNDERSTANDING.
+               cd /
+               cd ~/Desktop
+               cd /etc
+               cd /var/log
+               cd ..
+               cd
+ 5) mkdir - For creating folders and files. EX - mkdir foldername
+ 6) cat - To merge or concatinate your files. EX - cat test_1.txt test_2.txt test_3.txt.
+ 7) cat r* - concatenate all the files whose names start with a r and are followed by zero or more other characters.
