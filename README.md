@@ -15,4 +15,7 @@ Bourne shell (sh)
 Korn shell (ksh)
 Bourne Again shell (bash)
 POSIX shell (sh)
+# Ubuntu 
+Ubuntu is a free and open-source Linux distribution based on Debian. Ubuntu is officially released in three editions: Desktop, Server, and Core for the internet of things devices and robots. All the editions can run on the computer alone, or in a virtual machine.
+
 
