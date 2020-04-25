@@ -17,5 +17,6 @@ Bourne Again shell (bash)
 POSIX shell (sh)
 # Ubuntu 
 Ubuntu is a free and open-source Linux distribution based on Debian. Ubuntu is officially released in three editions: Desktop, Server, and Core for the internet of things devices and robots. All the editions can run on the computer alone, or in a virtual machine.
-
+# Kali Linux
+Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security.
 
